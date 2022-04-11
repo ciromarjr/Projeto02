@@ -37,11 +37,12 @@ nav ul {
 }
 
 ul li a {
+  opacity: 0.5;
   text-decoration: none;
   color: #1f1534; 
 }
 ul li a:hover {
-  
+  opacity: 1;
   font-weight: bold;
 }
 
